@@ -7,7 +7,7 @@ class Dog
     @name
   end
 
-def name = (fido)
-  @name = fido
-end
+def name = (breed)
+  @breed = breed
+  end
 end
